@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\TheConductor-ChildBoardv2\Project Outputs for TheConductor-ChildBoardv2\Pick Place for TheConductor-ChildBoard.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/11/23
+Time:       09:20
+Revision:   9227026fa150da844b9d87ed3beb1821c3aa62af
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","LCSC PART #"
+"R2","4.7K","TopLayer","RC0603N_YAG","3,7592mm","10,1346mm","0","SMT Resitor 4.7k","C105428"
+"C1","0.1 uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","8,2804mm","13,1064mm","180","SMT Capacitor 0.1 uF","C1591"
+"C2","0.1uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","8,3058mm","10,9474mm","0","SMT Capacitor 0.1 uF","C1591"
+"U1","MC3416-P","TopLayer","LGA-12_L2.0-W2.0-P0.50-BL","4,2812mm","12,7976mm","180","VLGA-12 Attitude Sensor/Gyroscope ROHS","C5250287"
+"R1","4.7K","TopLayer","RC0603N_YAG","3,7338mm","8,5852mm","0","SMT Resitor 4.7k","C105428"
+"CN1","4 pin connector","TopLayer","CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN","6,1722mm","4,5466mm","0","4 pin connector","C160404"

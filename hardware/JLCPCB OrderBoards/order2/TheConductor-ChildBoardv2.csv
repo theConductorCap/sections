@@ -1,0 +1,7 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity,LCSC PART #
+
+"0.1 uF","SMT Capacitor 0.1 uF","C1","CAP_AMK107BJ475MK-T_TAY","CL10B104KB8NNNC","1","C1591"
+"0.1uF","SMT Capacitor 0.1 uF","C2","CAP_AMK107BJ475MK-T_TAY","CL10B104KB8NNNC","1","C1591"
+"4 pin connector","4 pin connector","CN1","CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN","SM04B-SRSS-TB (LF)(SN)","1","C160404"
+"4.7K","SMT Resitor 4.7k","R1, R2","RC0603N_YAG","RC0603JR-074K7L","2","C105428"
+"MC3416-P","VLGA-12 Attitude Sensor/Gyroscope ROHS","U1","LGA-12_L2.0-W2.0-P0.50-BL","MC3416-P","1","C5250287"

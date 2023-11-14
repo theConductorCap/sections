@@ -1,0 +1,50 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\The conductor - Main board\Project Outputs for The conductor\Pick Place for Parent_Board.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/11/23
+Time:       09:43
+Revision:   ecb5f4c84db44c0d918bf5a15cac322aad9050db
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","LCSC PART #"
+"C8","0.1uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","51.3080mm","33.1470mm","0","SMT Capacitor 0.1 uF","C1591"
+"R2","4.7K","TopLayer","RC0603N_YAG","47.8790mm","16.7640mm","270","SMT Resitor 4.7k","C105428"
+"R1","4.7K","TopLayer","RC0603N_YAG","48.0060mm","12.5730mm","90","SMT Resitor 4.7k","C105428"
+"SW2","HOLE 1","TopLayer","RAD0.1C","8.2550mm","16.0020mm","0","",""
+"SW1","HOLE 1","TopLayer","RAD0.1C","5.7150mm","16.0020mm","90","",""
+"U1","TinyS3","TopLayer","TinyS3","19.4310mm","18.1610mm","0","TinyS3_1",""
+"Src","SM08B-SRSS-TB(LF)(SN)","TopLayer","JST-SM08B-SRSS-TB_V","4.1955mm","28.5750mm","270","Male Header, Pitch 1 mm, 1 x 8 Position, Height 2.95 mm, -25 to 85 degC, RoHS, Tape and Reel",""
+"C7","0.1uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","51.8160mm","20.1930mm","0","SMT Capacitor 0.1 uF","C1591"
+"C6","0.1uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","25.6540mm","39.2430mm","90","SMT Capacitor 0.1 uF","C1591"
+"MH4","Mount-Hole","TopLayer","support_2_mm","53.4670mm","40.7670mm","0","Mount hole",""
+"U2","I2C Expander","TopLayer","MODULE_2717","37.8460mm","17.1450mm","0","I2C Expander",""
+"C5","0.1uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","29.3370mm","34.4170mm","90","SMT Capacitor 0.1 uF","C1591"
+"C4","0.1uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","23.7490mm","39.2430mm","90","SMT Capacitor 0.1 uF","C1591"
+"F1","Resettable Fuse","TopLayer","F0805","18.8595mm","40.6400mm","180","6V 350mA 100A 750mA 0805 Resettable Fuses ROHS","C2687882"
+"C3","1uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","7.8740mm","20.7010mm","270","SMT Capacitor 1 uF","C105524"
+"FD1","FID1X2R","TopLayer","Fiducial","4.9530mm","2.4130mm","0","Fiducial - Round 1x2mm",""
+"Bat","CN-1P-2M-R2","TopLayer","JST-_S2B-PH-SM4-TB(LF)(SN)-2_V","5.9090mm","8.0010mm","270","2 pin connector SMT 2 mm pitch",""
+"Acc3","SM04B-SRSS","TopLayer","CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN","31.3690mm","38.9890mm","180","4 pin JST connector","C160404"
+"FD3","FID1X2R","TopLayer","Fiducial","48.1330mm","2.2860mm","0","Fiducial - Round 1x2mm",""
+"FD2","FID1X2R","TopLayer","Fiducial","12.5730mm","40.8940mm","0","Fiducial - Round 1x2mm",""
+"MH3","Mount-Hole","TopLayer","support_2_mm","53.4670mm","2.4130mm","0","Mount hole",""
+"MH2","Mount-Hole","TopLayer","support_2_mm","2.5400mm","40.7670mm","0","Mount hole",""
+"MH1","Mount-Hole","TopLayer","support_2_mm","2.4130mm","2.4130mm","0","Mount hole",""
+"3.3V","HOLE 1","TopLayer","RAD0.1C","9.5250mm","39.3700mm","90","",""
+"U4","Regulator","TopLayer","SOT89-150P350X160-3N","5.4600mm","19.9390mm","180","Fixed 24V 3.3V 1.5V @ 150mA SOT-89-3 Linear Voltage Regulators (LDO) RoHS","C115096"
+"U3","Acc4","TopLayer","LGA-12_L2.0-W2.0-P0.50-BL","51.9430mm","15.7307mm","180","VLGA-12 Attitude Sensor/Gyroscope ROHS","MC3416-P"
+"R7","2.7K","TopLayer","RC0603N_YAG","7.5565mm","36.9570mm","180","SMT Resitor 2.7k","C127451"
+"R6","2.7K","TopLayer","RC0603N_YAG","50.2920mm","22.0980mm","0","SMT Resitor 2.7k","C127451"
+"R5","2.7K","TopLayer","RC0603N_YAG","51.3080mm","34.6710mm","0","SMT Resitor 2.7k","C127451"
+"VCC","HOLE 1","TopLayer","RAD0.1C","6.8580mm","39.3700mm","0","",""
+"Reg","HOLE 1","TopLayer","RAD0.1C","4.1910mm","38.1635mm","270","",""
+"JP1","Battery","TopLayer","RAD0.1","7.1120mm","13.4620mm","90","",""
+"ToF","ToF sensor connector","TopLayer","CONN-SMD_SM06B-SRSS-TB-LF-SN","51.5620mm","27.4319mm","90","6 pin connector","C160405"
+"Acc2","SM04B-SRSS","TopLayer","CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN","40.0050mm","38.9890mm","180","4 pin JST connector","C160404"
+"Acc1","SM04B-SRSS","TopLayer","CONN-SMD_4P-P1.00_SM04B-SRSS-TB-LF-SN","48.5140mm","38.9890mm","180","4 pin JST connector","C160404"
+"C2","1uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","7.5565mm","35.0520mm","180","SMT Capacitor 1 uF","C105524"
+"C1","0.1uF","TopLayer","CAP_AMK107BJ475MK-T_TAY","51.8160mm","18.5420mm","0","SMT Capacitor 0.1 uF","C1591"
